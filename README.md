@@ -4,7 +4,7 @@ Descriptive analysis of Airbnb data from Seattle
 
 ### Data
 
-Find Dataset [here](http://insideairbnb.com/get-the-data.html)
+Find Dataset [here](http://insideairbnb.com/get-the-data.html) and place in input folder by creating it.
 
 ### Used libraries:
 
