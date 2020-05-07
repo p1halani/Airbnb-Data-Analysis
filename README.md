@@ -2,6 +2,24 @@
 
 Descriptive analysis of Airbnb data from Seattle
 
+# Conclusion
+
+1)  Calendar
+
+    Jan - April : Maintenance
+
+    May - Sep : rental
+
+    Oct - Dec : Take a break
+
+2) Communications affect overall rating and check in rating.
+
+3) Price and Revenue are not affected by ratings.
+
+4) Make rooms for 2 to 3 guests.
+
+5) Providing wireless internet, heating and kitchen are common.
+
 ### Data
 
 Find Dataset [here](http://insideairbnb.com/get-the-data.html) and place in input folder by creating it.
